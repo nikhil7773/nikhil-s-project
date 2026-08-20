@@ -1,4 +1,5 @@
 a = 55
 b = 557
-c = a+b
+c = 77
+d = a+b+c
 print(c)
